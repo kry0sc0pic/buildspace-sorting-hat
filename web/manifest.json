@@ -1,0 +1,23 @@
+{
+    "name": "buildspace houses",
+    "short_name": "sorter",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#FFFFFF",
+    "description": "Find your buildspace house!",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ]
+}
