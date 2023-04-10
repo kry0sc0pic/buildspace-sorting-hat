@@ -10,19 +10,15 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
-<!-- [![house sorter demo](https://cdn.loom.com/sessions/thumbnails/e54af3169bdd42a2b7b2ebe27fc0df6e-with-play.gif)](https://www.loom.com/share/e54af3169bdd42a2b7b2ebe27fc0df6e "house sorter demo")
- -->
 ## Demo
-<video  controls>
-  <source src="./demo/buildspace_house_sorter.mp4" type="video/mp4">
-</video>
+[![house sorter demo](https://cdn.loom.com/sessions/thumbnails/e54af3169bdd42a2b7b2ebe27fc0df6e-with-play.gif)](https://www.loom.com/share/e54af3169bdd42a2b7b2ebe27fc0df6e "house sorter demo")
 
----
-## pending
-- 
-- better questions & more detailed descriptions for chat gpt
 
----
+## future
+- better questions & more detailed house descriptions for gpt3
+
+
+
 ## setup
 ### 1) setup virtual environment
 ```bash
@@ -48,7 +44,7 @@ OPENAI_API_KEY="sk-Ac....G0U"
 ```bash
 python main.py
 ```
-### open `http://localhost:8000/`
+### open `http://localhost:8000/` in your browser
 
 ## frontend source
 ### available at [kry0s0cpic/buildspace-sorting-hat-frontend](https://github.com/kry0sc0pic/buildspace-sorting-hat-frontend)
