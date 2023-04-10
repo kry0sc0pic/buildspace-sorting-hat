@@ -47,6 +47,6 @@ python main.py
 ### open `http://localhost:8000/` in your browser
 
 ## frontend source
-### available at [kry0s0cpic/buildspace-sorting-hat-frontend](https://github.com/kry0sc0pic/buildspace-sorting-hat-frontend)
+### [kry0s0cpic/buildspace-sorting-hat-frontend](https://github.com/kry0sc0pic/buildspace-sorting-hat-frontend)
 ## license
 ### GNU AGPLv3
